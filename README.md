@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, NLP, Stat, and any area that related to Data Science
 - 🌱 I’m currently learning Data Science at the University of Rochester
 - 💞️ I’m looking to collaborate on Kaggle data science challenge
-- 📫 How to reach me: jzhong16@ur.rochester.edu or 
+- 📫 How to reach me: 📧jzhong16@ur.rochester.edu or LinkedIn:www.linkedin.com/in/jingwen-2021
 
 <!---
 JingwenZhong/JingwenZhong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
