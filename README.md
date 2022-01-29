@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jingwen Zhong
-- 👀 I’m interested in ML, NLP, Stat, and any area that is related to Data Science
-- 🌱 I’m Grad student, studying Data Science at the University of Rochester
-- 💞️ I’m looking to collaborate on data challenge/ kaggle competition
+- 👀 I’m interested in Stat, ML, NLP, and any area that is related to Data Science
+<!-- - 🌱 I’m Grad student, studying Data Science at the University of Rochester -->
+<!-- - 💞️ I’m looking to collaborate on data challenge/ kaggle competition -->
 - 📫 How to reach me: 📧jingwen.zhong@outlook.com or LinkedIn:www.linkedin.com/in/jingwen-2021
 
 <!---
