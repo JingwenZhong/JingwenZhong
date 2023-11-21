@@ -1,7 +1,8 @@
 ### 👋 Hi there, I'm Jingwen!
 
-- 👀 I am a passionate data enthusiast who loves to explore and bring innovative ideas to life. I'm constantly diving into new challenges and seeking ways to apply my skills in meaningful ways.
-- 💞️ **Collaboration:** I am keen to collaborate on new and exciting projects. Whether you have a developing concept or a mature project, I'm ready to contribute my skills and enthusiasm.
+I am a data enthusiast who loves to explore and bring innovative ideas to life. I'm constantly diving into new challenges and seeking ways to apply my skills in meaningful ways.
+
+- 💞️ **Collaboration:** I am keen to collaborate on new and exciting projects. Whether you have a developing concept or a mature project, I'm ready to contribute.
 - 📧 **Email:** You can email me at [jingwen.zhong@outlook.com](mailto:jingwen.zhong@outlook.com)
 - 🌐 **LinkedIn:** Connect with me on [LinkedIn](www.linkedin.com/in/jingwen-2021).
 
